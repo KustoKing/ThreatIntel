@@ -1,0 +1,2 @@
+"feedname","eventname","timestamp","type","value"
+"CASTALDI-T","ThreatIngestor Event: Twitter-Njrat","10/12/2020 21:15:09","url","http://karinepidh.ddns.net:1177"
