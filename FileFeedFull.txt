@@ -1,1 +1,0 @@
-"feedname","eventname","timestamp","type","value" "CASTALDI-T","ThreatIngestor Event: Twitter-Njrat","10/12/2020 21:15:09","sha256","c83105fad381e9a79fdd2aa33cbe742a8b5438341071edc68bcf5ddfe615c086"
