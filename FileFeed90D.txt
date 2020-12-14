@@ -1,2 +1,0 @@
-"id","timestamp","type","value"
-"6124","14/12/2020 20:00:09","sha256","2c36cb4e1771a04e728d75eb65b05f6875d4eb56df6eb5810af09d0d5e419cd5"
